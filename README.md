@@ -1,10 +1,10 @@
 ## Demo App for firebase realtime database and React combination
 
-1.Create project in Firebase console
-2.Link web App {symbol like </>}
-3.Clone the repository
-3.Copy the firebaseConfig object from linked webapp and paste in the variable with same name, located in /src/App.js
-4.run `npm install` first time
+1.Create project in Firebase console<br />
+2.Link web App {symbol like </>}<br />
+3.Clone the repository.<br />
+4.Copy the firebaseConfig object from linked webapp and paste in the variable with same name, located in /src/App.js.<br />
+5.run `npm install` first time.<br />
 
 ## Available Scripts
 
